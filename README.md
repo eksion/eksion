@@ -1,7 +1,7 @@
 # Eksion
 
-[![X](https://img.shields.io/badge/X-@blackskyiee-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0x3ksion)
-[![Telegram](https://img.shields.io/badge/Telegram-@Evtraf-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tiseksion)
+[![X](https://img.shields.io/badge/X-@0x3ksion-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0x3ksion)
+[![Telegram](https://img.shields.io/badge/Telegram-@tiseksion-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tiseksion)
 
 Independent Fullstack Engineer · Indonesia (UTC+7) · open to remote.
 
